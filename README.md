@@ -7,19 +7,19 @@
 > industry with its revolutionizing features and innovative thinking.
 > Get into Banks, Payment Services, Apple Pay or any platform.
 
-🆓  Always free
- ⛓️‍💥 No vendor lock-in (Bring your own sip)
-🟢 Near zero downtime
-💪 Zero Data logging
-✨ Instant Update
-😎 Human like voice
-🔋 12+ Pre-made Modes
-🔢 Spoof Panel
-🥸 Spoofing
-✏️ Custom Scripts & Actions
-🥷 PGP Mode
-⚠️ Voice Mail Detection
- 🔒 Secure
+- 🆓  Always free
+- ⛓️‍💥 No vendor lock-in (Bring your own sip)
+- 🟢 Near zero downtime
+- 💪 Zero Data logging
+- ✨ Instant Update
+- 😎 Human like voice
+- 🔋 12+ Pre-made Modes
+- 🔢 Spoof Panel
+- 🥸 Spoofing
+- ✏️ Custom Scripts & Actions
+- 🥷 PGP Mode
+- ⚠️ Voice Mail Detection
+ - 🔒 Secure
 *And much more...*
 
 
